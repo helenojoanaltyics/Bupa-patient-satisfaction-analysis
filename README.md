@@ -85,6 +85,23 @@ The report contains five analytical pages:
 4. **Complaints & Resolution:** Complaint categories, status, trends and resolution performance.
 5. **Management Insights:** Key findings and recommended improvement priorities.
 
+### Dashboard Screenshots
+
+#### 1. Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+#### 2. Patient Satisfaction Analysis
+![Patient Satisfaction Analysis](Patient%20Satisfaction%20Analysis.png)
+
+#### 3. Service Quality & Waiting Time
+![Service Quality and Waiting Time](Service%20Quality%20%26%20Waiting%20Time.png)
+
+#### 4. Complaints & Resolution
+![Complaints and Resolution](Complaints%20%26%20Resolution.png)
+
+#### 5. Management Insights
+![Management Insights](Management%20Insights.png)
+
 ## Key Findings
 
 ### 1. Overall Patient Satisfaction
