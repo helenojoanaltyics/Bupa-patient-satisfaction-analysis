@@ -62,6 +62,20 @@ Key activities included:
 - Missing ratings were retained rather than incorrectly replaced with zero.
 
 ## Power BI Dashboard
+<img width="1152" height="647" alt="Executive Overview" src="https://github.com/user-attachments/assets/a5f62796-8ef0-47fd-94cf-89d1c9f06896" />
+
+<img width="1157" height="646" alt="Complaints   Resolution" src="https://github.com/user-attachments/assets/975bcb3c-4aeb-4c93-86ea-d96c0bcb555e" />
+
+<img width="1152" height="645" alt="Patient Satisfaction Analysis" src="https://github.com/user-attachments/assets/28409162-5a72-49f6-8b09-a9e4d9d4df18" />
+
+<img width="1147" height="642" alt="Service Quality   Waiting Time" src="https://github.com/user-attachments/assets/acb3790e-e9c2-4a26-9af0-ec9940118e67" />
+
+<img width="1157" height="650" alt="Management Insights" src="https://github.com/user-attachments/assets/868a3e3f-10dd-460f-ab8f-bb4a5fac4552" />
+
+
+
+
+
 
 The report contains five analytical pages:
 
