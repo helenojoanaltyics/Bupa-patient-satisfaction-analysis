@@ -201,7 +201,6 @@ bupa-patient-satisfaction-analysis/
     └── management-insights.png
 ```
 
-*The filenames above are suggested examples. Replace them with the actual filenames uploaded to the repository.*
 
 ## What This Project Demonstrates
 
